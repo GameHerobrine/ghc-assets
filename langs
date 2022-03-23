@@ -1,5 +1,5 @@
 name=Test
 name.client=testCleint
-name.fly=Fly
+name.autowalk=Autowalk
 name=Test2
 name.client=RuTest
