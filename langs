@@ -1,5 +1,32 @@
-name=Test
-name.client=testCleint
-name.autowalk=Autowalk2
-name=Test2
-name.client=RuTest
+#Just a small test =D
+name=English
+
+#Client
+name.client=GameHero's Client 0.4
+
+#Coords
+name.coords=Coords
+
+#FPS
+name.fps=FPS
+
+#Time stuff
+name.time=Time
+name.time.day=Day
+name.time.night=Night
+
+#Weather stuff
+name.weather=Weather
+name.weather.sun=Sun
+name.weather.rain=Rain
+name.weather.thunder=Thunder
+
+#Unknown
+name.unknown=Unknown
+
+#Modules
+name.autowalk=AutoWalk
+name.autoleftclick=AutoLeftClick
+name.autotool=AutoPickaxe
+name.autoshift=AutoShift
+name.hidechat=HideChat
