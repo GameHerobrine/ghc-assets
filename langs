@@ -1,4 +1,6 @@
-#Just a small test =D
+#############
+###English###
+#############
 name=English
 
 #Client
@@ -30,3 +32,40 @@ name.autoleftclick=AutoLeftClick
 name.autotool=AutoPickaxe
 name.autoshift=AutoShift
 name.hidechat=HideChat
+
+
+
+#############
+###Russian###
+#############
+name=Русский
+
+#Client
+name.client=GameHero's Client
+
+#Coords
+name.coords=Координаты
+
+#FPS
+name.fps=ФПС
+
+#Time stuff
+name.time=Время
+name.time.day=День
+name.time.night=Ночь
+
+#Weather stuff
+name.weather=Погода
+name.weather.sun=Солнечно
+name.weather.rain=Дождь
+name.weather.thunder=Гроза
+
+#Unknown
+name.unknown=Неизвестно
+
+#Modules
+name.autowalk=АвтоХодьба
+name.autoleftclick=АвтоЛевыйКлик
+name.autotool=АвтоКирка
+name.autoshift=АвтоШифт
+name.hidechat=Скрыть Чат
